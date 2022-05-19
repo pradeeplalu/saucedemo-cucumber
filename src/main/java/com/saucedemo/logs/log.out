@@ -1,0 +1,38 @@
+2022-05-19 16:05:932 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:483 INFO  HomePage :31 - Enter User name :[[ChromeDriver: chrome on WINDOWS (0f8b8a5f1e4412ff34e7142217cf0899)] -> id: user-name]<br>
+2022-05-19 16:05:628 INFO  HomePage :33 - Enter Password :[[ChromeDriver: chrome on WINDOWS (0f8b8a5f1e4412ff34e7142217cf0899)] -> id: password]<br>
+2022-05-19 16:05:747 INFO  HomePage :39 - i clicked on the login button [[ChromeDriver: chrome on WINDOWS (0f8b8a5f1e4412ff34e7142217cf0899)] -> id: login-button]
+2022-05-19 16:05:897 INFO  HomePage :44 - select price from the filter: high to lowProxy element for: DefaultElementLocator 'By.className: product_sort_container'
+2022-05-19 16:05:321 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:682 INFO  HomePage :31 - Enter User name :[[ChromeDriver: chrome on WINDOWS (b66713c063010568d185c43c4e870364)] -> id: user-name]<br>
+2022-05-19 16:05:887 INFO  HomePage :33 - Enter Password :[[ChromeDriver: chrome on WINDOWS (b66713c063010568d185c43c4e870364)] -> id: password]<br>
+2022-05-19 16:05:74 INFO  HomePage :39 - i clicked on the login button [[ChromeDriver: chrome on WINDOWS (b66713c063010568d185c43c4e870364)] -> id: login-button]
+2022-05-19 16:05:325 INFO  HomePage :44 - select price from the filter: high to lowProxy element for: DefaultElementLocator 'By.className: product_sort_container'
+2022-05-19 16:05:905 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:175 INFO  HomePage :31 - Enter User name :[[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: user-name]<br>
+2022-05-19 16:05:437 INFO  HomePage :33 - Enter Password :[[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: password]<br>
+2022-05-19 16:05:691 INFO  HomePage :39 - i clicked on the login button [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: login-button]
+2022-05-19 16:05:160 INFO  HomePage :44 - select price from the filter: high to low[[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> class: product_sort_container]
+2022-05-19 16:05:338 INFO  HomePage :50 - Select the costliest product :[[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> xpath: //button[text() = 'Add to cart']]
+2022-05-19 16:05:416 INFO  HomePage :56 - Select the cheapest product : [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> xpath: //div[@class='inventory_list']/div[6]/descendant::button]
+2022-05-19 16:05:510 INFO  HomePage :62 - click on the shopping cart picture : [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: shopping_cart_container]
+2022-05-19 16:05:600 INFO  HomePage :24 - click on checkout button [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: checkout]
+2022-05-19 16:05:683 INFO  HomePage :37 - enter first name: [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: first-name]
+2022-05-19 16:05:794 INFO  HomePage :39 - enter last name: [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: last-name]
+2022-05-19 16:05:892 INFO  HomePage :41 - enter postal code: [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: postal-code]
+2022-05-19 16:05:02 INFO  HomePage :47 - click on continue button: [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> id: continue]
+2022-05-19 16:05:185 INFO  HomePage :25 - I can see the thank you text [[ChromeDriver: chrome on WINDOWS (e1a3992b25edf2daf949bd953aab15d0)] -> xpath: //*[@id='checkout_complete_container']/h2]
+2022-05-19 16:05:417 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:731 INFO  HomePage :31 - Enter User name :[[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: user-name]<br>
+2022-05-19 16:05:931 INFO  HomePage :33 - Enter Password :[[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: password]<br>
+2022-05-19 16:05:73 INFO  HomePage :39 - i clicked on the login button [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: login-button]
+2022-05-19 16:05:335 INFO  HomePage :44 - select price from the filter: high to low[[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> class: product_sort_container]
+2022-05-19 16:05:473 INFO  HomePage :50 - Select the costliest product :[[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> xpath: //button[text() = 'Add to cart']]
+2022-05-19 16:05:567 INFO  HomePage :56 - Select the cheapest product : [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> xpath: //div[@class='inventory_list']/div[6]/descendant::button]
+2022-05-19 16:05:675 INFO  HomePage :62 - click on the shopping cart picture : [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: shopping_cart_container]
+2022-05-19 16:05:777 INFO  HomePage :24 - click on checkout button [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: checkout]
+2022-05-19 16:05:856 INFO  HomePage :37 - enter first name: [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: first-name]
+2022-05-19 16:05:965 INFO  HomePage :39 - enter last name: [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: last-name]
+2022-05-19 16:05:61 INFO  HomePage :41 - enter postal code: [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: postal-code]
+2022-05-19 16:05:162 INFO  HomePage :47 - click on continue button: [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> id: continue]
+2022-05-19 16:05:343 INFO  HomePage :25 - I can see the thank you text [[ChromeDriver: chrome on WINDOWS (302327cf088e54173d44d13b283d3e9a)] -> xpath: //*[@id='checkout_complete_container']/h2]
